@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cs301_hw2</string>
+    <string name="hair_prompt">choose a hair style</string>
+
+    <string-array name="hair_style_array">
+        <item>straight</item>
+        <item>curly</item>
+        <item>bold</item>
+    </string-array>
+</resources>
